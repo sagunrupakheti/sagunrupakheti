@@ -14,6 +14,6 @@ I am a recent Software Engineering graduate heavily interested in research and t
  <tr>
 <td align="center" width="20%">
 <span><b><center>Ansible</center></b></span> 
-<img height=60px src="https://www.google.com/url?sa=i&url=https%3A%2F%2Finfinapps.com%2Fobira-hosting%2Fmongodb-logo%2F&psig=AOvVaw13hOGzkqv0QX7lDEDE6h1o&ust=1626194893769000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCJjthrn-3fECFQAAAAAdAAAAABAD"> 
+<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEbbMBYx3DSbnzVxofkkvdV83FRA-lma9Y_Q&usqp=CAU"> 
 </td>
 
