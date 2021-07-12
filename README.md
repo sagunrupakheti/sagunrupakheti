@@ -6,7 +6,7 @@ I am a recent Software Engineering graduate heavily interested in research and t
                   LinkedIn : [@sagunrupakheti](https://www.linkedin.com/in/sagun-rupakheti-a84941178/)
                   Instagram: [@sagun.rupakheti](https://www.instagram.com/sagun.rupakheti/)
 
-## Skill set: 
+## Skills 💻👩‍🎓
 
 <br>
 <table>
