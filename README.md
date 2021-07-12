@@ -50,4 +50,8 @@ I am a recent Software Engineering graduate heavily interested in research and t
     <span><b><center>Neo4j</center></b></span> 
     <img height=60px src="https://www.pngkey.com/png/full/231-2317101_neo-icon-neo4j-logo.png"> 
     </td>
+    <td align="center" width="20%">
+    <span><b><center>C++</center></b></span> 
+    <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"> 
+    </td>
   </tr>     
