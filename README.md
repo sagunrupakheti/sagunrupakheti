@@ -14,6 +14,6 @@ I am a recent Software Engineering graduate heavily interested in research and t
  <tr>
 <td align="center" width="20%">
 <span><b><center>Ansible</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEbbMBYx3DSbnzVxofkkvdV83FRA-lma9Y_Q&usqp=CAU"> 
+<img height=60px src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png"> 
 </td>
 
