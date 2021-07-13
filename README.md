@@ -1,6 +1,6 @@
 ### Hey there 🙋‍♀️,
 
-I am a recent Software Engineering graduate heavily interested in research and technology. I could be a perfectionist when it comes to work, as I am very passionate about programming, problem solving and learning.
+I am a recent Software Engineering graduate heavily interested in research and technology. 
 
 - 📫 Connect with me: 
                   LinkedIn : [@sagunrupakheti](https://www.linkedin.com/in/sagun-rupakheti-a84941178/)
