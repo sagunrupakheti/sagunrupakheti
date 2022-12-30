@@ -1,6 +1,6 @@
 ### Hey there 🙋‍♀️,
 
-I am a Graduate Student of Data Science and Artificial Intelligence in Asian Institute of Technology. 
+I am a Graduate Student of Data Science and Artificial Intelligence at Asian Institute of Technology. 
 
 - 📫 Connect with me: 
                   LinkedIn : [@sagunrupakheti](https://www.linkedin.com/in/sagun-rupakheti-a84941178/)
