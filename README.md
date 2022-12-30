@@ -25,12 +25,12 @@ I am a Graduate Student of Data Science and Artificial Intelligence in Asian Ins
     <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg"> 
     </td>
     <td align="center" width="20%">
-    <span><b><center>Machine Learning</center></b></span> 
+    <span><b><center>Machine Learning/Deep Learning</center></b></span> 
     <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Hey_Machine_Learning_Logo.png"> 
     </td>
     <td align="center" width="20%">
-    <span><b><center>Deep Learning + PyTorch</center></b></span> 
-    <img height=60px src="https://miro.medium.com/max/1400/1*4br4WmxNo0jkcsY796jGDQ.webp"> 
+    <span><b><center>PyTorch</center></b></span> 
+    <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png"> 
     </td>
   </tr> 
   <tr>
