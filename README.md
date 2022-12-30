@@ -29,8 +29,8 @@ I am a Graduate Student of Data Science and Artificial Intelligence in Asian Ins
     <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Hey_Machine_Learning_Logo.png"> 
     </td>
     <td align="center" width="20%">
-    <span><b><center>Deep Learning</center></b></span> 
-    <img height=60px src="https://www.ept.ca/2017/12/deeplearni-ng-joins-nvidia-partner-network/deep-learning-logo/"> 
+    <span><b><center>Deep Learning + PyTorch</center></b></span> 
+    <img height=60px src="https://miro.medium.com/max/1400/1*4br4WmxNo0jkcsY796jGDQ.webp"> 
     </td>
   </tr> 
   <tr>
