@@ -57,8 +57,8 @@ I am a Graduate Student of Data Science and Artificial Intelligence in Asian Ins
   </tr>
    <tr>
     <td align="center" width="20%">
-    <span><b><center>MongoDB</center></b></span> 
-    <img height=60px src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APandas_logo.svg&psig=AOvVaw11QBdcB3wbtTXJkMFGcXtT&ust=1672510825489000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCD3MH6ofwCFQAAAAAdAAAAABAE"> 
+    <span><b><center>Pandas</center></b></span> 
+    <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"> 
     </td>
     <td align="center" width="20%">
     <span><b><center>Python</center></b></span> 
