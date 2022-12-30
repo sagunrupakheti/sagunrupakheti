@@ -25,7 +25,7 @@ I am a Graduate Student of Data Science and Artificial Intelligence in Asian Ins
     <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg"> 
     </td>
     <td align="center" width="20%">
-    <span><b><center>Machine Learning/Deep Learning</center></b></span> 
+    <span><b><center>ML/DL</center></b></span> 
     <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Hey_Machine_Learning_Logo.png"> 
     </td>
     <td align="center" width="20%">
