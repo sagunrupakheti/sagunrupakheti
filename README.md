@@ -1,4 +1,3 @@
-### Hey there 🙋‍♀️,
 
 I am a Graduate Student of Data Science and Artificial Intelligence at Asian Institute of Technology. 
 
