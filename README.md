@@ -2,7 +2,7 @@
 - 📫 Connect with me: 
                   LinkedIn : [@sagunrupakheti](https://www.linkedin.com/in/sagun-rupakheti-a84941178/)
 <!--                   Instagram: [@sagun.rupakheti](https://www.instagram.com/sagun.rupakheti/) -->
-
+<!--
 ## Skills 💻👩‍🎓
 
 <br>
@@ -74,3 +74,4 @@
     <img height=60px src="https://cdn.icon-icons.com/icons2/2699/PNG/512/opencv_logo_icon_170888.png"> 
     </td>
   </tr>
+<!--
