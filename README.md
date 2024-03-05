@@ -1,6 +1,4 @@
 
-I am a Graduate Student of Data Science and Artificial Intelligence at Asian Institute of Technology. 
-
 - 📫 Connect with me: 
                   LinkedIn : [@sagunrupakheti](https://www.linkedin.com/in/sagun-rupakheti-a84941178/)
 <!--                   Instagram: [@sagun.rupakheti](https://www.instagram.com/sagun.rupakheti/) -->
